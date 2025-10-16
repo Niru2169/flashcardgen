@@ -1,0 +1,2 @@
+What is Arrays?	A brief definition and key operations of Arrays.	DSA_Arrays
+Arrays: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA_Arrays

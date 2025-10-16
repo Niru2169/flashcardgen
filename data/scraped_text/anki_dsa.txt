@@ -1,0 +1,22 @@
+What is Arrays?	A brief definition and key operations of Arrays.	DSA
+Arrays: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Linked List?	A brief definition and key operations of Linked List.	DSA
+Linked List: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Stacks?	A brief definition and key operations of Stacks.	DSA
+Stacks: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Queues?	A brief definition and key operations of Queues.	DSA
+Queues: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Trees?	A brief definition and key operations of Trees.	DSA
+Trees: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Graphs?	A brief definition and key operations of Graphs.	DSA
+Graphs: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Dynamic Programming?	A brief definition and key operations of Dynamic Programming.	DSA
+Dynamic Programming: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Hashing?	A brief definition and key operations of Hashing.	DSA
+Hashing: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Heaps?	A brief definition and key operations of Heaps.	DSA
+Heaps: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Binary Search?	A brief definition and key operations of Binary Search.	DSA
+Binary Search: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA
+What is Sorting?	A brief definition and key operations of Sorting.	DSA
+Sorting: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA

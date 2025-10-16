@@ -1,0 +1,2 @@
+What is Dynamic Programming?	A brief definition and key operations of Dynamic Programming.	DSA_Dynamic_Programming
+Dynamic Programming: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA_Dynamic_Programming

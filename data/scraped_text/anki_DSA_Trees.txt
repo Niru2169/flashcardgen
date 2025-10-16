@@ -1,0 +1,2 @@
+What is Trees?	A brief definition and key operations of Trees.	DSA_Trees
+Trees: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA_Trees

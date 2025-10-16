@@ -1,0 +1,8 @@
+Django==5.2.5
+psycopg2-binary==2.9.9
+requests==2.31.0
+beautifulsoup4==4.12.2
+numpy==1.26.3
+sentencepiece==0.1.99
+torch==2.1.2
+tqdm==4.66.1
