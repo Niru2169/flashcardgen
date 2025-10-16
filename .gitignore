@@ -34,6 +34,8 @@ data/models/docs_meta.json
 data/raw/
 data/chunk/
 data/scraped_text/
+# User's documents
+data/scraped_text/
 
 # Build artifacts
 *.whl
