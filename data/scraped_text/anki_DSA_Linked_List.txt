@@ -1,2 +1,0 @@
-What is Linked List?	A brief definition and key operations of Linked List.	DSA_Linked_List
-Linked List: typical time complexities?	Summarize insert/search/delete; best/avg/worst if relevant.	DSA_Linked_List
